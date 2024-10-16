@@ -1,3 +1,3 @@
-# README #
+# Git Baasics 
 
-# Test git diff ajout de ça 
+Hello World, love use git  
